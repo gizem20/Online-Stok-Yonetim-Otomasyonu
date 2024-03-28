@@ -1,0 +1,373 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gizem\\source\\repos\\MVC_OnlineStok\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A26AE87-B88F-4411-8922-44438596FEE8}|MVC_OnlineStok.csproj|c:\\users\\gizem\\source\\repos\\mvc_onlinestok\\models\\siniflar\\personel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A26AE87-B88F-4411-8922-44438596FEE8}|MVC_OnlineStok.csproj|solutionrelative:models\\siniflar\\personel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A26AE87-B88F-4411-8922-44438596FEE8}|MVC_OnlineStok.csproj|C:\\Users\\gizem\\source\\repos\\MVC_OnlineStok\\models\\siniflar\\urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A26AE87-B88F-4411-8922-44438596FEE8}|MVC_OnlineStok.csproj|solutionrelative:models\\siniflar\\urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A26AE87-B88F-4411-8922-44438596FEE8}|MVC_OnlineStok.csproj|C:\\Users\\gizem\\source\\repos\\MVC_OnlineStok\\models\\siniflar\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A26AE87-B88F-4411-8922-44438596FEE8}|MVC_OnlineStok.csproj|solutionrelative:models\\siniflar\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A26AE87-B88F-4411-8922-44438596FEE8}|MVC_OnlineStok.csproj|C:\\Users\\gizem\\source\\repos\\MVC_OnlineStok\\models\\siniflar\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A26AE87-B88F-4411-8922-44438596FEE8}|MVC_OnlineStok.csproj|solutionrelative:models\\siniflar\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A26AE87-B88F-4411-8922-44438596FEE8}|MVC_OnlineStok.csproj|C:\\Users\\gizem\\source\\repos\\MVC_OnlineStok\\views\\personel\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A26AE87-B88F-4411-8922-44438596FEE8}|MVC_OnlineStok.csproj|solutionrelative:views\\personel\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A26AE87-B88F-4411-8922-44438596FEE8}|MVC_OnlineStok.csproj|C:\\Users\\gizem\\source\\repos\\MVC_OnlineStok\\views\\urun\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A26AE87-B88F-4411-8922-44438596FEE8}|MVC_OnlineStok.csproj|solutionrelative:views\\urun\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A26AE87-B88F-4411-8922-44438596FEE8}|MVC_OnlineStok.csproj|C:\\Users\\gizem\\source\\repos\\MVC_OnlineStok\\controllers\\uruncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A26AE87-B88F-4411-8922-44438596FEE8}|MVC_OnlineStok.csproj|solutionrelative:controllers\\uruncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A26AE87-B88F-4411-8922-44438596FEE8}|MVC_OnlineStok.csproj|C:\\Users\\gizem\\source\\repos\\MVC_OnlineStok\\controllers\\personelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A26AE87-B88F-4411-8922-44438596FEE8}|MVC_OnlineStok.csproj|solutionrelative:controllers\\personelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A26AE87-B88F-4411-8922-44438596FEE8}|MVC_OnlineStok.csproj|C:\\Users\\gizem\\source\\repos\\MVC_OnlineStok\\views\\urun\\yeniurun.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A26AE87-B88F-4411-8922-44438596FEE8}|MVC_OnlineStok.csproj|solutionrelative:views\\urun\\yeniurun.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A26AE87-B88F-4411-8922-44438596FEE8}|MVC_OnlineStok.csproj|C:\\Users\\gizem\\source\\repos\\MVC_OnlineStok\\views\\personel\\personelekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A26AE87-B88F-4411-8922-44438596FEE8}|MVC_OnlineStok.csproj|solutionrelative:views\\personel\\personelekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A26AE87-B88F-4411-8922-44438596FEE8}|MVC_OnlineStok.csproj|C:\\Users\\gizem\\source\\repos\\MVC_OnlineStok\\views\\personel\\personelgetir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A26AE87-B88F-4411-8922-44438596FEE8}|MVC_OnlineStok.csproj|solutionrelative:views\\personel\\personelgetir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A26AE87-B88F-4411-8922-44438596FEE8}|MVC_OnlineStok.csproj|C:\\Users\\gizem\\source\\repos\\MVC_OnlineStok\\controllers\\kategoricontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A26AE87-B88F-4411-8922-44438596FEE8}|MVC_OnlineStok.csproj|solutionrelative:controllers\\kategoricontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A26AE87-B88F-4411-8922-44438596FEE8}|MVC_OnlineStok.csproj|C:\\Users\\gizem\\source\\repos\\MVC_OnlineStok\\controllers\\departmancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A26AE87-B88F-4411-8922-44438596FEE8}|MVC_OnlineStok.csproj|solutionrelative:controllers\\departmancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A26AE87-B88F-4411-8922-44438596FEE8}|MVC_OnlineStok.csproj|C:\\Users\\gizem\\source\\repos\\MVC_OnlineStok\\views\\departman\\departmandetay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A26AE87-B88F-4411-8922-44438596FEE8}|MVC_OnlineStok.csproj|solutionrelative:views\\departman\\departmandetay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A26AE87-B88F-4411-8922-44438596FEE8}|MVC_OnlineStok.csproj|C:\\Users\\gizem\\source\\repos\\MVC_OnlineStok\\views\\departman\\departmanekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A26AE87-B88F-4411-8922-44438596FEE8}|MVC_OnlineStok.csproj|solutionrelative:views\\departman\\departmanekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A26AE87-B88F-4411-8922-44438596FEE8}|MVC_OnlineStok.csproj|C:\\Users\\gizem\\source\\repos\\MVC_OnlineStok\\models\\siniflar\\departman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A26AE87-B88F-4411-8922-44438596FEE8}|MVC_OnlineStok.csproj|solutionrelative:models\\siniflar\\departman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A26AE87-B88F-4411-8922-44438596FEE8}|MVC_OnlineStok.csproj|C:\\Users\\gizem\\source\\repos\\MVC_OnlineStok\\models\\siniflar\\kategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A26AE87-B88F-4411-8922-44438596FEE8}|MVC_OnlineStok.csproj|solutionrelative:models\\siniflar\\kategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A26AE87-B88F-4411-8922-44438596FEE8}|MVC_OnlineStok.csproj|C:\\Users\\gizem\\source\\repos\\MVC_OnlineStok\\models\\siniflar\\kullanimhareketi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A26AE87-B88F-4411-8922-44438596FEE8}|MVC_OnlineStok.csproj|solutionrelative:models\\siniflar\\kullanimhareketi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A26AE87-B88F-4411-8922-44438596FEE8}|MVC_OnlineStok.csproj|C:\\Users\\gizem\\source\\repos\\MVC_OnlineStok\\views\\urun\\urungetir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A26AE87-B88F-4411-8922-44438596FEE8}|MVC_OnlineStok.csproj|solutionrelative:views\\urun\\urungetir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A26AE87-B88F-4411-8922-44438596FEE8}|MVC_OnlineStok.csproj|C:\\Users\\gizem\\source\\repos\\MVC_OnlineStok\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A26AE87-B88F-4411-8922-44438596FEE8}|MVC_OnlineStok.csproj|solutionrelative:views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A26AE87-B88F-4411-8922-44438596FEE8}|MVC_OnlineStok.csproj|C:\\Users\\gizem\\source\\repos\\MVC_OnlineStok\\views\\departman\\departmapersonelkullanim.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A26AE87-B88F-4411-8922-44438596FEE8}|MVC_OnlineStok.csproj|solutionrelative:views\\departman\\departmapersonelkullanim.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A26AE87-B88F-4411-8922-44438596FEE8}|MVC_OnlineStok.csproj|C:\\Users\\gizem\\source\\repos\\MVC_OnlineStok\\views\\departman\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A26AE87-B88F-4411-8922-44438596FEE8}|MVC_OnlineStok.csproj|solutionrelative:views\\departman\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\gizem\\source\\repos\\MVC_OnlineStok\\Models\\Siniflar\\Admin.cs",
+              "RelativeDocumentMoniker": "Models\\Siniflar\\Admin.cs",
+              "ToolTip": "C:\\Users\\gizem\\source\\repos\\MVC_OnlineStok\\Models\\Siniflar\\Admin.cs",
+              "RelativeToolTip": "Models\\Siniflar\\Admin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T16:01:20.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\gizem\\source\\repos\\MVC_OnlineStok\\Views\\Urun\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Urun\\Index.cshtml",
+              "ToolTip": "C:\\Users\\gizem\\source\\repos\\MVC_OnlineStok\\Views\\Urun\\Index.cshtml",
+              "RelativeToolTip": "Views\\Urun\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-17T15:58:34.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Personel.cs",
+              "DocumentMoniker": "C:\\Users\\gizem\\source\\repos\\MVC_OnlineStok\\Models\\Siniflar\\Personel.cs",
+              "RelativeDocumentMoniker": "Models\\Siniflar\\Personel.cs",
+              "ToolTip": "C:\\Users\\gizem\\source\\repos\\MVC_OnlineStok\\Models\\Siniflar\\Personel.cs",
+              "RelativeToolTip": "Models\\Siniflar\\Personel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T15:55:31.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Urun.cs",
+              "DocumentMoniker": "C:\\Users\\gizem\\source\\repos\\MVC_OnlineStok\\Models\\Siniflar\\Urun.cs",
+              "RelativeDocumentMoniker": "Models\\Siniflar\\Urun.cs",
+              "ToolTip": "C:\\Users\\gizem\\source\\repos\\MVC_OnlineStok\\Models\\Siniflar\\Urun.cs",
+              "RelativeToolTip": "Models\\Siniflar\\Urun.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwAwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T12:44:18.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\gizem\\source\\repos\\MVC_OnlineStok\\Views\\Personel\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Personel\\Index.cshtml",
+              "ToolTip": "C:\\Users\\gizem\\source\\repos\\MVC_OnlineStok\\Views\\Personel\\Index.cshtml",
+              "RelativeToolTip": "Views\\Personel\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T08:11:02.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PersonelController.cs",
+              "DocumentMoniker": "C:\\Users\\gizem\\source\\repos\\MVC_OnlineStok\\Controllers\\PersonelController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PersonelController.cs",
+              "ToolTip": "C:\\Users\\gizem\\source\\repos\\MVC_OnlineStok\\Controllers\\PersonelController.cs",
+              "RelativeToolTip": "Controllers\\PersonelController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAqwCEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T08:05:06.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "YeniUrun.cshtml",
+              "DocumentMoniker": "C:\\Users\\gizem\\source\\repos\\MVC_OnlineStok\\Views\\Urun\\YeniUrun.cshtml",
+              "RelativeDocumentMoniker": "Views\\Urun\\YeniUrun.cshtml",
+              "ToolTip": "C:\\Users\\gizem\\source\\repos\\MVC_OnlineStok\\Views\\Urun\\YeniUrun.cshtml",
+              "RelativeToolTip": "Views\\Urun\\YeniUrun.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T12:13:29.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UrunController.cs",
+              "DocumentMoniker": "C:\\Users\\gizem\\source\\repos\\MVC_OnlineStok\\Controllers\\UrunController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UrunController.cs",
+              "ToolTip": "C:\\Users\\gizem\\source\\repos\\MVC_OnlineStok\\Controllers\\UrunController.cs",
+              "RelativeToolTip": "Controllers\\UrunController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAuwCQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T19:46:33.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\gizem\\source\\repos\\MVC_OnlineStok\\Models\\Siniflar\\Context.cs",
+              "RelativeDocumentMoniker": "Models\\Siniflar\\Context.cs",
+              "ToolTip": "C:\\Users\\gizem\\source\\repos\\MVC_OnlineStok\\Models\\Siniflar\\Context.cs",
+              "RelativeToolTip": "Models\\Siniflar\\Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T15:47:01.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DepartmanDetay.cshtml",
+              "DocumentMoniker": "C:\\Users\\gizem\\source\\repos\\MVC_OnlineStok\\Views\\Departman\\DepartmanDetay.cshtml",
+              "RelativeDocumentMoniker": "Views\\Departman\\DepartmanDetay.cshtml",
+              "ToolTip": "C:\\Users\\gizem\\source\\repos\\MVC_OnlineStok\\Views\\Departman\\DepartmanDetay.cshtml",
+              "RelativeToolTip": "Views\\Departman\\DepartmanDetay.cshtml",
+              "ViewState": "AQIAABEAAAAAAAAAAADwvyUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-01T08:42:55.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PersonelEkle.cshtml",
+              "DocumentMoniker": "C:\\Users\\gizem\\source\\repos\\MVC_OnlineStok\\Views\\Personel\\PersonelEkle.cshtml",
+              "RelativeDocumentMoniker": "Views\\Personel\\PersonelEkle.cshtml",
+              "ToolTip": "C:\\Users\\gizem\\source\\repos\\MVC_OnlineStok\\Views\\Personel\\PersonelEkle.cshtml",
+              "RelativeToolTip": "Views\\Personel\\PersonelEkle.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAwA4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T12:11:59.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PersonelGetir.cshtml",
+              "DocumentMoniker": "C:\\Users\\gizem\\source\\repos\\MVC_OnlineStok\\Views\\Personel\\PersonelGetir.cshtml",
+              "RelativeDocumentMoniker": "Views\\Personel\\PersonelGetir.cshtml",
+              "ToolTip": "C:\\Users\\gizem\\source\\repos\\MVC_OnlineStok\\Views\\Personel\\PersonelGetir.cshtml",
+              "RelativeToolTip": "Views\\Personel\\PersonelGetir.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T13:41:33.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DepartmanEkle.cshtml",
+              "DocumentMoniker": "C:\\Users\\gizem\\source\\repos\\MVC_OnlineStok\\Views\\Departman\\DepartmanEkle.cshtml",
+              "RelativeDocumentMoniker": "Views\\Departman\\DepartmanEkle.cshtml",
+              "ToolTip": "C:\\Users\\gizem\\source\\repos\\MVC_OnlineStok\\Views\\Departman\\DepartmanEkle.cshtml",
+              "RelativeToolTip": "Views\\Departman\\DepartmanEkle.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-17T15:47:59.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "KategoriController.cs",
+              "DocumentMoniker": "C:\\Users\\gizem\\source\\repos\\MVC_OnlineStok\\Controllers\\KategoriController.cs",
+              "RelativeDocumentMoniker": "Controllers\\KategoriController.cs",
+              "ToolTip": "C:\\Users\\gizem\\source\\repos\\MVC_OnlineStok\\Controllers\\KategoriController.cs",
+              "RelativeToolTip": "Controllers\\KategoriController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T15:49:08.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DepartmanController.cs",
+              "DocumentMoniker": "C:\\Users\\gizem\\source\\repos\\MVC_OnlineStok\\Controllers\\DepartmanController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DepartmanController.cs",
+              "ToolTip": "C:\\Users\\gizem\\source\\repos\\MVC_OnlineStok\\Controllers\\DepartmanController.cs",
+              "RelativeToolTip": "Controllers\\DepartmanController.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAvwD8AAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T08:41:03.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Departman.cs",
+              "DocumentMoniker": "C:\\Users\\gizem\\source\\repos\\MVC_OnlineStok\\Models\\Siniflar\\Departman.cs",
+              "RelativeDocumentMoniker": "Models\\Siniflar\\Departman.cs",
+              "ToolTip": "C:\\Users\\gizem\\source\\repos\\MVC_OnlineStok\\Models\\Siniflar\\Departman.cs",
+              "RelativeToolTip": "Models\\Siniflar\\Departman.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T08:34:20.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Kategori.cs",
+              "DocumentMoniker": "C:\\Users\\gizem\\source\\repos\\MVC_OnlineStok\\Models\\Siniflar\\Kategori.cs",
+              "RelativeDocumentMoniker": "Models\\Siniflar\\Kategori.cs",
+              "ToolTip": "C:\\Users\\gizem\\source\\repos\\MVC_OnlineStok\\Models\\Siniflar\\Kategori.cs",
+              "RelativeToolTip": "Models\\Siniflar\\Kategori.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T15:47:23.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "KullanimHareketi.cs",
+              "DocumentMoniker": "C:\\Users\\gizem\\source\\repos\\MVC_OnlineStok\\Models\\Siniflar\\KullanimHareketi.cs",
+              "RelativeDocumentMoniker": "Models\\Siniflar\\KullanimHareketi.cs",
+              "ToolTip": "C:\\Users\\gizem\\source\\repos\\MVC_OnlineStok\\Models\\Siniflar\\KullanimHareketi.cs",
+              "RelativeToolTip": "Models\\Siniflar\\KullanimHareketi.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T13:33:39.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UrunGetir.cshtml",
+              "DocumentMoniker": "C:\\Users\\gizem\\source\\repos\\MVC_OnlineStok\\Views\\Urun\\UrunGetir.cshtml",
+              "RelativeDocumentMoniker": "Views\\Urun\\UrunGetir.cshtml",
+              "ToolTip": "C:\\Users\\gizem\\source\\repos\\MVC_OnlineStok\\Views\\Urun\\UrunGetir.cshtml",
+              "RelativeToolTip": "Views\\Urun\\UrunGetir.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-03-11T08:30:00.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\gizem\\source\\repos\\MVC_OnlineStok\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\gizem\\source\\repos\\MVC_OnlineStok\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAADwvz0AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-03-08T08:11:45.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DepartmaPersonelKullanim.cshtml",
+              "DocumentMoniker": "C:\\Users\\gizem\\source\\repos\\MVC_OnlineStok\\Views\\Departman\\DepartmaPersonelKullanim.cshtml",
+              "RelativeDocumentMoniker": "Views\\Departman\\DepartmaPersonelKullanim.cshtml",
+              "ToolTip": "C:\\Users\\gizem\\source\\repos\\MVC_OnlineStok\\Views\\Departman\\DepartmaPersonelKullanim.cshtml",
+              "RelativeToolTip": "Views\\Departman\\DepartmaPersonelKullanim.cshtml",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAACoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-03-04T13:14:10.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\gizem\\source\\repos\\MVC_OnlineStok\\Views\\Departman\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Departman\\Index.cshtml",
+              "ToolTip": "C:\\Users\\gizem\\source\\repos\\MVC_OnlineStok\\Views\\Departman\\Index.cshtml",
+              "RelativeToolTip": "Views\\Departman\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-03-01T08:42:45.716Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

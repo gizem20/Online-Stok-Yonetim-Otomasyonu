@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC_OnlineStok", "MVC_OnlineStok.csproj", "{1A26AE87-B88F-4411-8922-44438596FEE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A26AE87-B88F-4411-8922-44438596FEE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A26AE87-B88F-4411-8922-44438596FEE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A26AE87-B88F-4411-8922-44438596FEE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A26AE87-B88F-4411-8922-44438596FEE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BD9E1C1-198F-4003-B450-D1DC3B6BE8CE}
+	EndGlobalSection
+EndGlobal

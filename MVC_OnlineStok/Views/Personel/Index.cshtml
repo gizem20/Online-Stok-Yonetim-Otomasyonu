@@ -1,0 +1,33 @@
+﻿@using MVC_OnlineStok.Models.Siniflar
+@model  List<Personel>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>Index</h2>
+
+<table class="table table-bordered" style="margin-top:20px">
+    <tr>
+        <th>ID</th>
+        <th>Personel Adı</th>
+        <th>Personel Soyad</th>
+        <th>Departman ID</th>
+        <th>Güncelle</th>
+        
+    </tr>
+    @foreach (var k in Model)
+    {
+        <tr>
+            <td>@k.PersonelID</td>
+            <td> @k.PersonelAd</td>
+            <td>@k.PersonelSoyad</td>
+            <td>@k.Departman.DepartmanAd</td>
+            
+
+            <td><a href="/Personel/PersonelGetir/@k.PersonelID" class="btn btn-warning">Güncelle</a></td>
+            <td><a href="/Departman/DepartmanPersonelKullanim/@k.PersonelID" class="btn btn-defalult" style="background-color:lightcoral ;color:white">Detaylar</a></td>
+        </tr>
+    }
+</table>
+<a href="/Personel/PersonelEkle" class="btn btn-info">Personel Ekle</a>

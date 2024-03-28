@@ -1,0 +1,38 @@
+﻿@using MVC_OnlineStok.Models.Siniflar
+@model List<Personel>
+
+
+@{
+    ViewBag.Title = "DepartmanDetay";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>DepartmanDetay</h2>
+
+<br />
+
+<ol class="breadcrumb mb-4">
+    <li class="breadcrumb-item active">Departman Adı: @ViewBag.d</li>
+</ol>
+<br />
+
+<table class="table table-hover">
+    <tr>
+        <th>Personel Id</th>
+        <th>Ad</th>
+        <th>Soyad</th>
+        <th>Kullanım</th>
+    </tr>
+
+    @foreach (var x in Model)
+    {
+        <tr>
+            <td>@x.PersonelID</td>
+            <td>@x.PersonelAd</td>
+            <td>@x.PersonelSoyad</td>
+            <td><a href="/Departman/DepartmaPersonelKullanim/@x.PersonelID" class="btn btn-default" style="background-color:orangered">Kullanım</a></td>
+
+        </tr>
+    }
+
+</table>
